@@ -1,0 +1,15 @@
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/CovidTracker.deps.json
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/CovidTracker.runtimeconfig.json
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/CovidTracker.runtimeconfig.dev.json
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/CovidTracker.dll
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/ref/CovidTracker.dll
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/bin/Debug/net5.0/CovidTracker.pdb
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.csproj.AssemblyReference.cache
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.AssemblyInfoInputs.cache
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.AssemblyInfo.cs
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.csproj.CoreCompileInputs.cache
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.dll
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/ref/CovidTracker.dll
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.pdb
+/Users/akashmandal/Projects/CovidTracker/CovidTracker/obj/Debug/net5.0/CovidTracker.genruntimeconfig.cache
