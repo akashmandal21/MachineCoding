@@ -1,0 +1,15 @@
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.csproj.AssemblyReference.cache
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.AssemblyInfoInputs.cache
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.AssemblyInfo.cs
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.csproj.CoreCompileInputs.cache
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/PublisherSunscriber.deps.json
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/PublisherSunscriber.runtimeconfig.json
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/PublisherSunscriber.runtimeconfig.dev.json
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/PublisherSunscriber.dll
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/ref/PublisherSunscriber.dll
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/bin/Debug/net5.0/PublisherSunscriber.pdb
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.dll
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/ref/PublisherSunscriber.dll
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.pdb
+/Users/akashmandal/Projects/PublisherSunscriber/PublisherSunscriber/obj/Debug/net5.0/PublisherSunscriber.genruntimeconfig.cache
