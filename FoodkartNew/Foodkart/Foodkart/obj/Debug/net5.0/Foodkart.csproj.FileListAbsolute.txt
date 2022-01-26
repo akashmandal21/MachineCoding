@@ -1,0 +1,15 @@
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/Foodkart.deps.json
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/Foodkart.runtimeconfig.json
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/Foodkart.runtimeconfig.dev.json
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/Foodkart.dll
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/ref/Foodkart.dll
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/bin/Debug/net5.0/Foodkart.pdb
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.csproj.AssemblyReference.cache
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.AssemblyInfoInputs.cache
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.AssemblyInfo.cs
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.csproj.CoreCompileInputs.cache
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.dll
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/ref/Foodkart.dll
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.pdb
+/Users/akashmandal/Projects/FoodkartNew/Foodkart/Foodkart/obj/Debug/net5.0/Foodkart.genruntimeconfig.cache
