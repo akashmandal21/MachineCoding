@@ -1,0 +1,15 @@
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/CabManagement.deps.json
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/CabManagement.runtimeconfig.json
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/CabManagement.runtimeconfig.dev.json
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/CabManagement.dll
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/ref/CabManagement.dll
+/Users/akashmandal/Projects/CabManagement/CabManagement/bin/Debug/net5.0/CabManagement.pdb
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.csproj.AssemblyReference.cache
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.AssemblyInfoInputs.cache
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.AssemblyInfo.cs
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.csproj.CoreCompileInputs.cache
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.dll
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/ref/CabManagement.dll
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.pdb
+/Users/akashmandal/Projects/CabManagement/CabManagement/obj/Debug/net5.0/CabManagement.genruntimeconfig.cache
